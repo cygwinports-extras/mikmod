@@ -1,5 +1,5 @@
 category: Audio
-requires: cygwin libmikmod2 libncurses8
+requires: libmikmod2 libncurses8
 sdesc: "Console module file player"
 ldesc: "MikMod is a very portable module player based on libmikmod. It 
 will play the IT, XM, MOD, MTM, S3M, STM, ULT, FAR, MED, DSM, AMF, IMF 
