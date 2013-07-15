@@ -1,5 +1,0 @@
-DESCRIPTION="Console module file player"
-HOMEPAGE="http://mikmod.raphnet.net/"
-SRC_URI="http://mikmod.raphnet.net/files/${P}.tar.gz"
-
-CYGCONF_ARGS="--enable-color-interface --disable-libmikmodtest"

@@ -1,0 +1,12 @@
+NAME="mikmod"
+VERSION=3.2.2
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="Console module file player"
+DESCRIPTION="MikMod is a very portable module player based on libmikmod. It
+will play the IT, XM, MOD, MTM, S3M, STM, ULT, FAR, MED, DSM, AMF, IMF and
+669 module formats."
+HOMEPAGE="http://mikmod.shlomifish.org/"
+SRC_URI="http://mikmod.shlomifish.org/files/mikmod-${VERSION}.tar.gz"
+
+CYGCONF_ARGS="--enable-color-interface --disable-libmikmodtest"
